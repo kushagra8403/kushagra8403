@@ -17,13 +17,13 @@ BEng (Hons) Computer Science graduate focused on turning data into clear busines
 
 Reproducible synthetic business datasets covering sales, customer churn, e-commerce, marketing, operations and executive BI.
 
-urlView the Business Analytics Portfoliohttps://github.com/kushagra8403/sales-data-analysis-excel
+[View the Business Analytics Portfolio](https://github.com/kushagra8403/sales-data-analysis-excel)
 
 ### 🇬🇧 Real-World UK Data Analyst Portfolio
 
 Six projects using genuine UK public-sector data from publishers including DfT, HM Land Registry, ONS, NHS England and DESNZ.
 
-urlView the Real UK Data Portfoliohttps://github.com/kushagra8403/real-data-analyst-portfolio
+[View the Real UK Data Portfolio](https://github.com/kushagra8403/real-data-analyst-portfolio)
 
 ## Selected technical work
 
